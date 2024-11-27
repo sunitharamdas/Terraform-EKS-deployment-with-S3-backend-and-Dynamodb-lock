@@ -4,11 +4,11 @@ provider "aws" {
 }
 
 # configure backend
-terraform {
-  backend "s3" {
-    bucket         = "dhsoni-terraform"
-    key            = "eks.terraform.tfstate"
-    region         = "us-east-2"
-    dynamodb_table = "terraform-state-lock-dynamodb"
-  }
-}
+# terraform {
+#   backend "s3" {
+#     bucket         = "sun-test1"
+#     key            = "eks.terraform.tfstate"
+#     region         = "eu-west-2"
+#     dynamodb_table = "terraform-state-lock-dynamodb"
+#   }
+# }
