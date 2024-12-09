@@ -21,7 +21,6 @@ This repository provides an Infrastructure-as-Code (IaC) solution to create an *
 1. Clone the repository:
    ```bash
    git clone https://github.com/sunitharamdas/Terraform-EKS-deployment-with-S3-backend-and-Dynamodb-lock.git
-   cd aws-eks-terraform-s3-backend
 
 2.	Terraform:
 	```bash
