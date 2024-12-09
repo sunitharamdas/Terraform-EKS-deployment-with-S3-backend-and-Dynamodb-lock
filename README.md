@@ -27,4 +27,4 @@ This repository provides an Infrastructure-as-Code (IaC) solution to create an *
     terraform init
     terraform plan
     terraform apply
-  
+  Update the file "dev.tfvars".
