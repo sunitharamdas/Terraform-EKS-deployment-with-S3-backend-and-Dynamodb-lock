@@ -25,7 +25,7 @@ This repository provides an Infrastructure-as-Code (IaC) solution to create an *
 
 2.	Terraform:
 	```bash
-   terraform init
-   terraform plan
-   terraform apply
+    terraform init
+    terraform plan
+    terraform apply
   
